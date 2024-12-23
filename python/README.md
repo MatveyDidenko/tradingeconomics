@@ -1,3 +1,11 @@
+### Running the application.py
+
+After going to the same folder as the application.py
+-make sure you have installed all of the libraries
+-run with: _streamlit run application.py_ (this will create a new browser tab with the demo website for the commodity data)
+-in that website enter your API key on the left side sidebar and it will automatically update with the information
+
+This demo shows my use of the trading economics api to compare multiple indications in multiple ways concisely.
 
 ### TradingEconomics - Python
 
